@@ -1,0 +1,21 @@
+{
+  "name": "normals_calculator",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node appRunner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYX1122/Normals_Calculator.git"
+  },
+  "author": "BoDee Angus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NYX1122/Normals_Calculator/issues"
+  },
+  "homepage": "https://github.com/NYX1122/Normals_Calculator#readme"
+}
